@@ -113,9 +113,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 ------
 ## 🍀 Credits
-
-- 💖 All the Dependencies
-- 💖 [ProRaiden](https://github.com/ProRaiden)
-- 💖 [HellBoy](https://github.com/HellBoy-OP)
+https://heroku.com/deploy
 
 ------
